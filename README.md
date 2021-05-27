@@ -121,7 +121,7 @@ auth-api |
 
 ## TESTS 
 
-[Actions](https://github.com/wafaankoush99/auth-api/actions)
+[Actions](https://github.com/wafaankoush99/api-auth/actions)
 
 ![](./test.png)
 ![](./tableTest.png)
